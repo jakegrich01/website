@@ -1,0 +1,22 @@
+body{
+    color: dimgray;
+    background-color: lightblue
+    
+}
+.bold{
+    font-weight: bold;
+}
+.colorandfont{
+    color: black;
+    font-size: large;
+}
+.fontfamily{
+    font-family: sans-serif;
+}
+.italic{
+    font-style: italic;
+}
+.boldandblue{
+    color: blue;
+    font-weight: bold;
+}
